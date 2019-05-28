@@ -1,0 +1,14 @@
+F:\GIT\Repos\XelloChallenge\GraduationTracker\GraduationTracker.Tests.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\GIT\Repos\XelloChallenge\GraduationTracker\GraduationTracker.Tests.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\GIT\Repos\XelloChallenge\GraduationTracker\GraduationTracker.Tests.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\GIT\Repos\XelloChallenge\GraduationTracker\GraduationTracker.Tests.Unit\bin\Debug\GraduationTracker.Tests.Unit.dll
+F:\GIT\Repos\XelloChallenge\GraduationTracker\GraduationTracker.Tests.Unit\bin\Debug\GraduationTracker.Tests.Unit.pdb
+F:\GIT\Repos\XelloChallenge\GraduationTracker\GraduationTracker.Tests.Unit\bin\Debug\GraduationTracker.dll
+F:\GIT\Repos\XelloChallenge\GraduationTracker\GraduationTracker.Tests.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\GIT\Repos\XelloChallenge\GraduationTracker\GraduationTracker.Tests.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\GIT\Repos\XelloChallenge\GraduationTracker\GraduationTracker.Tests.Unit\bin\Debug\GraduationTracker.pdb
+F:\GIT\Repos\XelloChallenge\GraduationTracker\GraduationTracker.Tests.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\GIT\Repos\XelloChallenge\GraduationTracker\GraduationTracker.Tests.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\GIT\Repos\XelloChallenge\GraduationTracker\GraduationTracker.Tests.Unit\obj\Debug\GraduationTracker.Tests.Unit.csprojResolveAssemblyReference.cache
+F:\GIT\Repos\XelloChallenge\GraduationTracker\GraduationTracker.Tests.Unit\obj\Debug\GraduationTracker.Tests.Unit.dll
+F:\GIT\Repos\XelloChallenge\GraduationTracker\GraduationTracker.Tests.Unit\obj\Debug\GraduationTracker.Tests.Unit.pdb
